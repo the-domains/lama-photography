@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Travel & Landscape Photography]]></title>
-        <description><![CDATA[Travel & Landscape Photography]]></description>
+        <title><![CDATA[Lama Photography]]></title>
+        <description><![CDATA[Lama Photography]]></description>
         <link>https://thegrid.ai/lama-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 11:47:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 12:01:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lama-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Taiwan]]></title>
+            <description><![CDATA[<h1>Taiwan</h1>]]></description>
+            <link>https://thegrid.ai/lama-photography/taiwan/index.html</link>
+            <guid isPermaLink="false">84ac5862-b03a-40da-a613-478edf2991e3</guid>
+            <pubDate>Wed, 31 Aug 2016 12:01:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ontario]]></title>
             <description><![CDATA[<article><h1>Ontario</h1><p>Travel & Landscape Photographer</p></article>]]></description>

@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Lama Photography]]></title>
         <description><![CDATA[Lama Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lama-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 10:58:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 31 Aug 2016 11:40:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lama-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Travel & Lifestyle Photographer</p>]]></description>
-            <link>undefined34a13927-0064-4ac1-bfb3-468b4026d854/index.html</link>
+            <description><![CDATA[<p>Travel & Landscape Photographer</p>]]></description>
+            <link>https://thegrid.ai/lama-photography/34a13927-0064-4ac1-bfb3-468b4026d854/index.html</link>
             <guid isPermaLink="false">34a13927-0064-4ac1-bfb3-468b4026d854</guid>
-            <pubDate>Mon, 07 Mar 2016 10:58:36 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2016 11:39:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

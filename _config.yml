@@ -30,6 +30,9 @@ navigation:
   - name: Ontario
     id: 34a13927-0064-4ac1-bfb3-468b4026d854
     type: content
+  - name: Taiwan
+    id: 84ac5862-b03a-40da-a613-478edf2991e3
+    type: content
 favicon: null
 title: Lama Photography
 description: Travel & Landscape Photography

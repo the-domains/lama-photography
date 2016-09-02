@@ -26,6 +26,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Ontario
+    id: 34a13927-0064-4ac1-bfb3-468b4026d854
+    type: content
 favicon: null
 title: Travel & Landscape Photography
 purpose: []

@@ -1,19 +1,4 @@
-name: Lama Photography
-favicon: null
-layout_spectrum: 0.3498166592326015
 typography_spectrum: 0.12091683084145188
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -25,4 +10,20 @@ color:
   lightness: 0.2677782087121159
   saturation: 0.21856980002485216
   rhythmicContrast: 0.9475325711537153
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3498166592326015
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Lama Photography
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Lama Photography
 purpose: []

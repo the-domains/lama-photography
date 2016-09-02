@@ -1,4 +1,3 @@
-layout_spectrum: 0.4994452125392854
 typography_spectrum: 0.9795373152010143
 color:
   brandColors:
@@ -15,15 +14,18 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.4994452125392854
 analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  url: www.lamaphotography.com
 name: Lama Photography
 cta:
   domain: null
   bucket: null
   version: null
 favicon: null
-title: Lama Photography
+title: Travel & Landscape Photography
 purpose: []
